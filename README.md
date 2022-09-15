@@ -8,4 +8,4 @@ Linear Regression
 Decision Tree Regressor
 Random Forest Regressor
 XGB Regressor
-KNeighborsRegressor
+KNeighborsRegressor 
